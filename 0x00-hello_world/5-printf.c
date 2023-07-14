@@ -1,15 +1,15 @@
 #include <stdio.h>
 
 /**
- 
-main - entry point*
-Description: prograsm prints using printf
-*
-Return:Always  0 (Success)
+ * main - entry point
+ *
+ * Description: prograsm prints using printf
+ *
+ * Return:Always  0 (Success)
 */
 
 int main(void)
 {
         printf("with proper grammar, but the outcome is a piece of art,\n");
-        return (0);
+        return (0);
 }
