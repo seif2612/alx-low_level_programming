@@ -12,7 +12,7 @@
 */
 
 int main(void)
-{	
+{
 	int n, d;
 
 	srand(time(0));
@@ -26,4 +26,4 @@ int main(void)
 	else if (d < 6 && d != 0)
 		printf("Last digit of %i is %i and is less than 6 and not 0\n", n, d);
 	return (0);
-}	
+}
